@@ -7,3 +7,7 @@ Minimal blog inspired by Medium
 
 ## Dribbble
 https://dribbble.com/shots/14636376-Nodium-Minimal-blog-inspired-by-Medium
+
+## Bugs
+- not responsive on mobile devices, I'm too lazy to do it
+
