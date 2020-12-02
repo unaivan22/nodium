@@ -152,3 +152,31 @@ a:hover {
     color: #10736e;
     font-weight: bold;
 }
+
+@media (min-width: 476px) { 
+    .card-img-top-sm {
+        height: 140px;
+        width: 140px;
+    }
+    .card-img-top{
+        height: 30vh !important;
+    }
+    .card-img-top-speaker {
+        height: 110px;
+        width: 110px;
+    }
+}
+
+@media (min-width: 768px) { 
+    .card-img-top-sm {
+        height: 100px;
+        width: 100px;
+    }
+    .card-img-top{
+        height: 20vh !important;
+    }
+    .card-img-top-speaker {
+        height: 80px;
+        width: 80px;
+    }
+}
