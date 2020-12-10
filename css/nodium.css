@@ -180,3 +180,7 @@ a:hover {
         width: 80px;
     }
 }
+
+.navbar-toggler-icon i {
+    color: #7D7E7E;
+}
